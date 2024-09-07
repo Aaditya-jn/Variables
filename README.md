@@ -17,8 +17,9 @@ phrase
       
 'Hi, I am a boy'
 THIS IS A STRING LITERAL. INDICATING THAT THE WORD OR CHARACTERS WE ENTERED, IS A STRING. PYTHON SHOWS IT BY SINGLE QUOTATION MARKS. WHEREAS IF WE TYPE print(phrase) THE OUTPUT DOES NOT HAVE
-ANY QUOTATION MARKS. PYTHON UNDERSTANDS IT EARLIER WHEN WE USED DOUBLE QUOTATION MARKS WHEN ASSIGNING A VARAIBLE NAME ITS VALUE.
-
+ANY QUOTATION MARKS. PYTHON UNDERSTANDS IT EARLIER WHEN WE USED DOUBLE QUOTATION MARKS WHEN ASSIGNING A VARAIBLE NAME ITS VALUE. IN SHORT WE ARE TELLING PYTHON TO INSPECT THE VRIABLE pharse.
+The key takeaway here is that print() displays a readable representa-tion of a variable’s value, while inspection provides additional infor-mation about the type of the value.
+You can inspect other variables in python shell. Check out what happens when you type print and hit ente. WE WILL GET SOMETHING OUTPUT LIKE THIS:  <built-in function print>
 ```
 
 ```
@@ -45,5 +46,14 @@ Aditya Jain
 Vinay Jain
 
 ```
+
+
+
+
+
+
+
+
+
 
 
